@@ -81,7 +81,7 @@
 
 ---
 
-> "Building cool things, staying cooler. Coding with clarity, shipping with chill." 🌊
+> "I believe technology is the language of impact — and I am here to speak it fluently." 💡
 
 ---
 
