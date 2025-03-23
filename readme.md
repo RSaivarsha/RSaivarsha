@@ -3,6 +3,10 @@
 🚀 AI Developer • 💻 Full Stack Explorer • 🎯 Future Founder • 🎵 Music Lover
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RSaivarsha&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -77,8 +81,8 @@
 
 ---
 
-> "I believe technology is the language of impact — and I am here to speak it fluently." 💡
+> "Building cool things, staying cooler. Coding with clarity, shipping with chill." 🌊
 
 ---
 
-⭐️ If any of my work helped or inspired you, consider giving a ⭐ on the repo — it fuels my passion!  
+⭐️ If any of my work helped or inspired you, consider giving a ⭐ — it fuels my curiosity and caffeine supply ☕
