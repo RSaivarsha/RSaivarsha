@@ -1,83 +1,84 @@
-# 👋 Hey there, I'm Saivarsha Raju!
-
-Welcome to my GitHub profile! I am currently pursuing my **Master of Science in Computing, Entrepreneurship and Innovation** at **New York University** where I’m exploring the intersection of **artificial intelligence, innovation, and product development**. I’m deeply passionate about building AI-powered solutions that create real-world impact.
-
----
-
-## 🚀 What I Do
-
-🔬 **AI Research & Engineering**  
-I’ve worked on AI systems ranging from **medical visual question answering using Retrieval-Augmented Generation**, to **speech signal analysis using Dynamic Mode Decomposition**, to **multilingual NLP systems** for low-resource languages.
-
-🌐 **Full Stack Development**  
-From backend APIs to interactive frontends using **React** and **Flask**, I build and deploy robust applications and prototypes that help bring AI into real products.
-
-🎯 **Startup Builder Mindset**  
-As part of the **Tech Treks community at NYU**, I tutor and mentor a cohort of 20 undergraduates in **AI, web development, and startup tech**, helping them build products and scale ideas into real MVPs.
+<h2 align="center">Hey there, I’m Saivarsha Raju 👋</h2>
+<p align="center">
+🚀 AI Developer • 💻 Full Stack Explorer • 🎯 Future Founder • 🎵 Music Lover
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌐 Connect With Me
 
-- **Languages:** Python, Java, C++, JavaScript, SQL  
-- **Libraries & Frameworks:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Flask, FastAPI, React  
-- **Dev Tools:** Git, Docker, Kubernetes, CI/CD, Postman  
-- **Cloud & Infrastructure:** AWS, GCP, Azure, Qdrant  
-- **Databases:** PostgreSQL, MongoDB, Pinecone, FAISS  
-- **Concepts:** LLMs, RAG, Prompt Engineering, Signal Processing, NLP, CV, Speech Analysis
+[<img src="https://img.shields.io/badge/LinkedIn-Saivarsha%20Raju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-varsha-raju/)
+[<img src="https://img.shields.io/badge/GitHub-RSaivarsha-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RSaivarsha)
+[<img src="https://img.shields.io/badge/Email-saivarsharaju@nyu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:saivarsharaju@nyu.edu)
+[<img src="https://img.shields.io/badge/Resume-View-ff69b4?style=for-the-badge" />](https://tinyurl.com/SaivarshaRajuResume)
 
 ---
 
-## 📚 Selected Projects
+## 👨‍💻 About Me
 
-- 🔍 **Medical VQA System using RAG**  
-  Designed a medical visual QA system using **LLaVA-13B, Qdrant, and image-text embeddings** to deliver accurate medical insights.  
-  _Accuracy: 84.9%_
-
-- 🎤 **Speech Signal Epoch Estimation**  
-  Used **Dynamic Mode Decomposition** to estimate Glottal Closure Instants and reconstruct waveforms for speech modeling.
-
-- 🗞️ **Multilingual News Event Detection & QA System**  
-  Built and evaluated event classifiers for **Tamil news articles**, and a **QA system** using **XLM-RoBERTa**, improving accessibility for regional languages.
-
-- 🏏 **Cricket Match Win Predictor**  
-  Developed a probabilistic model to forecast match outcomes using **PGM techniques and DMD-based estimation**.
+🎓 Master's student at **NYU** in **Computing, Entrepreneurship and Innovation**  
+🧠 Passionate about **AI**, **LLMs**, **NLP**, and building **real-world products**  
+🎯 Future **founder-in-training**, blending tech with business  
+🌍 Love solving impactful problems through **research and product development**  
+🎓 Former AI undergrad from Amrita Vishwa Vidyapeetham  
+👨‍🏫 Tutor at **Tech Treks NYU**, guiding undergrads on AI, web dev, and startup tech  
+🎵 Also a Mridangam, Violin, and Keyboard player. I love coding to classical tunes!
 
 ---
 
-## 📜 Publications
+## 💻 Tech Stack
 
-- **Enhanced Vision Language Model for Medical VQA**, ICDSA 2024  
-  Fine-tuned BLIP with LoRA for medical visual understanding. Achieved **80.93%** accuracy on benchmark datasets.
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### Frameworks & Libraries  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 🌱 Currently Learning
-
-- Agentic AI Systems using LangGraph and AutoGen  
-- Cloud-native AI deployments  
-- Applying LLMs in cybersecurity and system observability  
-- Building scalable, production-grade ML APIs
-
----
-
-## 🎵 Outside of Tech
-
-When I’m not building models or mentoring, you’ll find me:
-- Playing **Mridangam, Violin, and Keyboard** 🎶  
-- Representing my school in **badminton and cricket** 🏸🏏  
-- Solving 3x3, 2x2, and mirror **Rubik’s cubes** 🧊  
-- Jamming to Carnatic music or exploring new startups 🚀  
+### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Projects
 
-- 📧 [Email](mailto:saivarsharaju@nyu.edu)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-varsha-raju/)  
-- 💻 [My GitHub Projects](https://github.com/RSaivarsha)  
-- 📝 [Resume](https://tinyurl.com/SaivarshaRajuResume)
+- 🩺 **Medical VQA with RAG & Llava-13B** – Conversational AI system for healthcare using multimodal embeddings  
+- 🎤 **Speech Signal Epoch Estimator** – DMD-based GCI detection on speech samples  
+- 🗞️ **Tamil News Event Detection** – LSTM-based classifier with XLM-R QA system  
+- 🏏 **Cricket Match Predictor** – Probabilistic model using dynamic pitch frequency estimation  
+- 🧠 **Personalized Voice Assistant & Voice Controlled Robot** – Raspberry Pi meets NLP and robotics
 
 ---
 
-Thanks for visiting! If you're into building cool things with AI, NLP, or just curious about the tech startup space — let's collaborate.
+## 🏆 Achievements & Fun Stuff
+
+- 🧪 Published at **ICDSA 2024** – Fine-tuned BLIP for medical VQA  
+- 🏸 Won Inter-School Women’s Badminton Singles 🥈  
+- 🎶 Performed in multiple live concerts as an instrumentalist  
+- 🧩 Solver of Rubik's 3x3x3, 2x2x2, and mirror cube
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RSaivarsha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RSaivarsha&theme=radical" />
+</p>
+
+---
+
+> "I believe technology is the language of impact — and I am here to speak it fluently." 💡
+
+---
+
+⭐️ If any of my work helped or inspired you, consider giving a ⭐ on the repo — it fuels my passion!  
