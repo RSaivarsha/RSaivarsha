@@ -53,6 +53,14 @@
 
 ---
 
+## 🧰 My Toolbox
+
+| AI & ML                             | Web & UI                       | Backend                  | Cloud & DevOps                      | Tools                      |
+|------------------------------------|--------------------------------|--------------------------|--------------------------------------|----------------------------|
+| PyTorch, TensorFlow, Hugging Face  | React, HTML, CSS, JavaScript   | Flask, FastAPI, Node.js | AWS, Azure, Docker, Kubernetes       | Git, GitHub Actions, VS Code |
+
+---
+
 ## 🚀 Projects
 
 - 🩺 **Medical VQA with RAG & Llava-13B** – Conversational AI system for healthcare using multimodal embeddings  
@@ -77,6 +85,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RSaivarsha&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RSaivarsha&theme=radical" />
+</p>
+
+---
+
+## 📊 Language & Contribution Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSaivarsha&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RSaivarsha&theme=github-compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RSaivarsha&theme=algolia" />
 </p>
 
 ---
