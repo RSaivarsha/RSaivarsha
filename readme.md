@@ -99,8 +99,8 @@
 
 ---
 
-> "I believe technology is the language of impact — and I am here to speak it fluently." 💡
+> "I believe technology is the language of impact, and I am here to speak it fluently." 💡
 
 ---
 
-⭐️ If any of my work helped or inspired you, consider giving a ⭐ — it fuels my curiosity and caffeine supply ☕
+⭐️ If any of my work helped or inspired you, consider giving a ⭐, it fuels my curiosity and caffeine supply ☕
